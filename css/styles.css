@@ -1,0 +1,9 @@
+/*
+* En este archivo se importan todos los demás archivos CSS para construir el estilo final de la aplicación.
+* Utiliza este archivo como punto de entrada principal para todos tus estilos.
+*/
+
+@import url('base.css');
+@import url('layout.css');
+
+/* Aquí puedes agregar estilos globales adicionales o específicas que no encajen en base.css o layout.css */
